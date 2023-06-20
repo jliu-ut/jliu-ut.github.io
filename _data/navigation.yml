@@ -2,7 +2,7 @@
 main:
 
   - title: "CV"
-    url: /cv/
+    url: https://github.com/jliu-ut/CV/blob/main/CV.pdf
         
   - title: "Research"
     url: /publications/
