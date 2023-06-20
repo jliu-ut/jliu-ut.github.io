@@ -11,7 +11,7 @@ title                    : "Your Name / Site Title"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
 description              : &description "Ph.D. Candidate in Accounting at Rotman School of Management, University of Toronto"
-url                      : 
+url                      : "https://jliu-ut.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jliu-ut.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
