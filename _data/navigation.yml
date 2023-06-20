@@ -5,7 +5,7 @@ main:
     url: https://github.com/jliu-ut/CV/blob/main/CV.pdf
         
   - title: "Research"
-    url: /publications/
+    url: /publications/research.md
 
   - title: "Teaching"
     url: /teaching/    
