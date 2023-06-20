@@ -13,7 +13,7 @@ I am particularly interested in teaching data analytics for accounting majors at
 
 ### Course Instructor
 * RSM 326: Data Analytics Using Financial Accounting Information (Evaluation: 4.6/5.0, 2022 Rotman Teaching Excellence Award Winner)
-  * Undergraduate-level courses on using accounting data, managing databases, and applying data analytics to address accounting and business questions.
+  * Undergraduate-level course on using accounting data, managing databases, and applying data analytics to address accounting and business questions.
   * Involve a list of data analytic tools including Microsoft Excel, Microsoft Access, SQL, and Tableau and databases such as Compustat, CRSP, I/B/E/S, Yahoo Finance, and SEC EDGAR.
     
 
