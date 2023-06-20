@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find the PDF version of my CV [here](https://github.com/jliu-ut/CV/blob/main/CV.pdf)
+You can find the PDF version of my CV [here](https://github.com/jliu-ut/CV/blob/main/CV.pdf).
 
 Education
 ======
