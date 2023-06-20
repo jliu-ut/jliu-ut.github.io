@@ -1,9 +1,29 @@
-1. Website Cookies and Voluntary Disclosure (solo-authored job market paper)
-   
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+  - /research.html
+---
+
+## Job Market Paper
+1. Website Cookies and Voluntary Disclosure
+
    Abstract: Using detailed data on website cookies from U.S public firms' websites, I investigate the role of corporate collection and use of consumer data through website cookies in corporate voluntary disclosure. I argue that cookies infuse first-hand, granular, and real-time data into managers' information sets and enrich internal information about customers and sales operations. I show that the number of cookies is positively related to the frequency and the likelihood of issuing management sales forecasts. Using FinBERT-based measures of 10-K filings, I find that cookies are also associated with more qualitative disclosure regarding customers, marketing, and products. Further analyses suggest that cookies are more useful if they collect data of stronger relevance and larger amount. Additional analyses indicate that data analytic technology assist firms in exploiting cookie data to enhance voluntary disclosure, while data privacy protection mechanisms impair the usefulness of cookies. Using a regulatory change, the California Consumer Privacy Act (CCPA), as a quasi-natural experiment, I provide additional evidence for the causal relation between cookies and voluntary disclosure. Overall, the paper sheds light on the role of corporate data collection in financial reporting, highlights the usefulness of cookies in disclosure, and speaks to the effects of data analytic technology as well as the potential impacts of data privacy regulations.
-   
-2. Does stock liquidity shape voluntary disclosure? Evidence from the SEC tick size pilot program
+
+
+## Publication
+2. [Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program](https://link.springer.com/article/10.1007/s11142-022-09686-0) (with Ole-Kristian Hope)
+:   Review of Accounting Studies (Forthcoming)
 
    (Based on first-year summer paper at Rotman School of Management)
 
-    Abstract: Employing the SEC Tick Size Pilot Program, which increases the minimum trading unit of a set of randomly selected small-capitalization stocks, we examine whether and how an exogenous change in stock liquidity affects corporate voluntary disclosure. Using difference-in-differences analyses with firm fixed effects, we find that treatment firms respond to the liquidity decline by issuing fewer management earnings forecasts, while, in contrast, control firms do not exhibit a significant change. Next we show that the effect is more pronounced when firms experience more severe liquidity decreases during the TSPP and rule out a set of alternative explanations. Further strengthening the identification, we find a consistent reversal effect after the end of the pilot program. To generalize our findings, we use voluntary 8-K filings and conference calls as alternative voluntary disclosure proxies and find similar effects. Overall, these findings show how an exogenous change in stock liquidity shapes the corporate information environment.
+   Abstract: Using detailed data on website cookies from U.S public firms' websites, I investigate the role of corporate collection and use of consumer data through website cookies in corporate voluntary disclosure. I argue that cookies infuse first-hand, granular, and real-time data into managers' information sets and enrich internal information about customers and sales operations. I show that the number of cookies is positively related to the frequency and the likelihood of issuing management sales forecasts. Using FinBERT-based measures of 10-K filings, I find that cookies are also associated with more qualitative disclosure regarding customers, marketing, and products. Further analyses suggest that cookies are more useful if they collect data of stronger relevance and larger amount. Additional analyses indicate that data analytic technology assist firms in exploiting cookie data to enhance voluntary disclosure, while data privacy protection mechanisms impair the usefulness of cookies. Using a regulatory change, the California Consumer Privacy Act (CCPA), as a quasi-natural experiment, I provide additional evidence for the causal relation between cookies and voluntary disclosure. Overall, the paper sheds light on the role of corporate data collection in financial reporting, highlights the usefulness of cookies in disclosure, and speaks to the effects of data analytic technology as well as the potential impacts of data privacy regulations.
+
+
+## Working Papers
+3. Earnings Announcements in China: Overnight and Intraday Disparity (with Ole-Kristian Hope and Danqi Hu)
+
+4. FOMC Meetings and Analysts' Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
+
