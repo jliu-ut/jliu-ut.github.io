@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 ### Teaching Interests
-I am particularly interested in teaching data analytics for accounting majors at all levels using tools such as Microsoft Excel, SQL, Python, R, and Tableau. I am also interested in and able to teach a wide range of courses including but not limited to  financial accounting, managerial accounting, and financial statement analysis.
+I am particularly interested in teaching data analytics for accounting majors at all levels using tools such as Microsoft Excel, SQL, Python, R, and Tableau. I am also interested in and qualified to teach a wide range of courses including but not limited to  financial accounting, managerial accounting, and financial statement analysis.
 
 
 ### Course Instructor
