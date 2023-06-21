@@ -20,7 +20,7 @@ Education
 Research
 ======
 1. Website Cookies and Voluntary Disclosure (Solo-authored Job Market Paper)
-2. Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program? _Review of Accounting Studies_ (2022) (with Ole-Kristian Hope)
+2. Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program? _Review of Accounting Studies_ (Forthcoming) (with Ole-Kristian Hope)
 3. Earnings Announcements in China: Overnight-Intraday Disparity (with Ole-Kristian Hope and Danqi Hu)
 4. FOMC Meetings and Analysts’ Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
 5. Investor Relation Website Cookies: Corporate Data Acquisition from Investors and Conference Call Communications (with Xijiang Su, _Work in Progress_)
