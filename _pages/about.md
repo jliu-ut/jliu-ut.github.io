@@ -16,7 +16,7 @@ My research interests broadly pertain to archival research in financial accounti
 
 Prior to joining the Ph.D. program, I earned my B.A. and M.A. degrees in accounting from Guanghua School of Management, Peking University in 2017 and 2019, respectively.
 
-In my spare time, I am an amateur photographer who enjoys hunting photos in cities. Besides, I also enjoy cooking, singing, fitness training, and spending time with my beautiful cat Suda. 
+In my spare time, I am an amateur photographer who enjoys hunting photos in cities. Besides, I also enjoy cooking, singing, exploring museums, fitness training, and spending time with my beautiful cat Suda. 
 
 
 
