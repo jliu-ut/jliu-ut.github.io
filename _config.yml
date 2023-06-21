@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Junhao Liu"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
-description              : &description "Ph.D. Candidate in Accounting at Rotman School of Management, University of Toronto"
+description              : &description "Ph.D. Candidate in Accounting at the Rotman School of Management, University of Toronto"
 url                      : https://jliu-ut.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jliu-ut.github.io"
@@ -84,9 +84,9 @@ analytics:
 author:
   name             : "Junhao Liu"
   avatar           : "profile.png"
-  bio              : "I am a fifth-year Ph.D. student in Accounting at Rotman School of Management, University of Toronto. I will be on the 2023 - 2024 academic job market."
+  bio              : "Ph.D. Candidate in Accounting at the Rotman School of Management, University of Toronto. I am on the 2023 - 2024 academic job market."
   location         : "Toronto, ON, Canada"
-  employer         : 
+  employer         : Rotman School of Management, University of Toronto
   pubmed           : 
   googlescholar    : 
   email            : "junhao.liu@rotman.utoronto.ca"
@@ -117,6 +117,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=4025963"
 
 
 # Reading Files
