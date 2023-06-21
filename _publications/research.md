@@ -21,6 +21,7 @@ redirect_from:
 
 ## Working Papers
 ### 3. Earnings Announcements in China: Overnight and Intraday Disparity (with Ole-Kristian Hope and Danqi Hu)
+* Preparing for resubmission to third-round review
 
 ### 4. FOMC Meetings and Analysts' Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
 
