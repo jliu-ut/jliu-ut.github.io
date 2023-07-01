@@ -66,10 +66,11 @@ Teaching
 
 Honors and Grants
 ======
+* TD Management Data and Analytics Lab Research Grant (2023)
 * FASB Emerging Scholar Finalist
 * Rotman Teaching Excellence Award
 * Rotman Research Traineeship
-* TD Management Data and Analytics Lab Research Grant
+* TD Management Data and Analytics Lab Research Grant (2022)
 * Mitacs Research Training Award
 * Rotman School of Management Ph.D. Fellowship and Director’s Fellowship
 * Outstanding Graduate of Beijing
