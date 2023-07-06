@@ -14,7 +14,7 @@ permalink: /data/
   * Functional cookies
   * Analytic cookies (also known as performance cookies)
   * Advertising cookies (also known as targeting cookies)
-* [Cookiepedia](https://cookiepedia.co.uk/) allows one to check the likely purposes of website cookies through manual search
+* [Cookiepedia](https://cookiepedia.co.uk/) allows one to check the likely purposes of website cookies through manual search.
 
 
 
