@@ -1,5 +1,5 @@
 ---
-title: "Archive Layout with Content"
+title: "Data"
 layout: archive
 permalink: /data/
 ---
