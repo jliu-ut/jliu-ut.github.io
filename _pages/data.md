@@ -10,6 +10,6 @@ permalink: /data/
 
 
 {% include base_path %}
-{% for post in site.pages %}
+
 {% include archive-single.html %}
-{% endfor %}
+
