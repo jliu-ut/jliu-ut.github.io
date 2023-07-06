@@ -6,3 +6,4 @@ redirect_from:
   - /data/
   - /data.html
 ---
+{% include base_path %}
