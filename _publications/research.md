@@ -29,4 +29,4 @@ redirect_from:
 ## Work in Progress
 
 ### 5. The Value of Data Assets
-### 6. Use Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications 
+### 6. Using Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications 
