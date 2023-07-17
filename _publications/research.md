@@ -28,4 +28,5 @@ redirect_from:
 
 ## Work in Progress
 
-### 5. Use Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications (with Xijiang Su)
+### 5. The Value of Data Assets
+### 6. Use Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications 
