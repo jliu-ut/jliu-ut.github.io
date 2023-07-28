@@ -25,6 +25,7 @@ redirect_from:
 * Presented at 2021 AAA Annual Meeting, 2021 CAAA Annual Meeting, 2021 TADC
 
 ### 4. FOMC Meetings and Analysts' Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
+* Presented at the Joint Ph.D. Program Consortium at HEC Montreal, 2023 AAA Annual Meeting
 
 ## Work in Progress
 
