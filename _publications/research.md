@@ -21,7 +21,7 @@ redirect_from:
 
 ## Working Papers
 ### 3. [Earnings Announcements in China: Overnight and Intraday Disparity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501822) (with Ole-Kristian Hope and Danqi Hu)
-* Preparing for resubmission to third-round review
+* Under third-round review at _Journal of Corporate Finance_
 * Presented at 2021 AAA Annual Meeting, 2021 CAAA Annual Meeting, 2021 TADC
 
 ### 4. FOMC Meetings and Analysts' Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
