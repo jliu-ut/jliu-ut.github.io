@@ -19,15 +19,13 @@ redirect_from:
 * Adapted from first-year summer paper at the Rotman School of Management
 * Media Mention: [FinReg Blog](https://sites.duke.edu/thefinregblog/2021/11/04/does-stock-liquidity-shape-voluntary-disclosure-evidence-from-the-sec-tick-size-pilot-program/) 
 
-## Working Papers
-### 3. [Earnings Announcements in China: Overnight and Intraday Disparity](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4501822) (with Ole-Kristian Hope and Danqi Hu)
-* Under third-round review at _Journal of Corporate Finance_
+### 3. [Earnings Announcements in China: Overnight and Intraday Disparity](https://www.sciencedirect.com/science/article/pii/S0929119923001207) (with Ole-Kristian Hope and Danqi Hu), _Journal of Corporate Finance_ (Forthcoming)
 * Presented at 2021 AAA Annual Meeting, 2021 CAAA Annual Meeting, 2021 TADC
-
+  
+## Working Papers
 ### 4. FOMC Meetings and Analysts' Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
 * Presented at the Joint Ph.D. Program Consortium at HEC Montreal, 2023 AAA Annual Meeting
 
 ## Work in Progress
-
 ### 5. The Value of Data Assets
 ### 6. Using Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications 
