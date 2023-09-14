@@ -29,6 +29,7 @@ Research
 Conferences and Workshops
 ======
 * 2023
+  * The Fourth Emerging Scholar in Accounting Conference (Scheduled)
   * AAA Annual Meeting (presenter)
   * Wharton Spring Accounting Conference
   * TD Management Data and Analytics Lab Research Roundtable (presenter)
