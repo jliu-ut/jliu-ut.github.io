@@ -14,7 +14,7 @@ redirect_from:
 * Presented at the Rotman School of Management, the University of British Columbia, 2023 Emerging Scholars in Accounting Conference
 
 ## Publication
-### 2. [Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program](https://link.springer.com/article/10.1007/s11142-022-09686-0) (with Ole-Kristian Hope), _Review of Accounting Studies_ (Forthcoming)
+### 2. [Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program](https://link.springer.com/article/10.1007/s11142-022-09686-0) (with Ole-Kristian Hope), _Review of Accounting Studies_ (2023)
 
 * Presented at 2021 FARS, 2021 AAA Annual Meeting, 2021 CAAA Annual Meeting
 * Adapted from first-year summer paper at the Rotman School of Management
