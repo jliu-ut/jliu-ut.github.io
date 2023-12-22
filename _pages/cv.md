@@ -18,8 +18,8 @@ Education
 * B.A. in Accounting, Guanghua School of Management, Peking University, 2013 - 2017
 
 Research
-======
-1. Website Cookies and Voluntary Disclosure (Solo-authored Job Market Paper)
+======J
+1. Website Cookies and Voluntary Disclosure (Solo-authored Job Market Paper, revise and resubmit at _Journal of Accounting and Economics_)
 2. Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program? _Review of Accounting Studies_ (Forthcoming) (with Ole-Kristian Hope)
 3. Earnings Announcements in China: Overnight-Intraday Disparity. _Journal of Corporate Finance_ (Forthcoming) (with Ole-Kristian Hope and Danqi Hu)
 4. FOMC Meetings and Analysts’ Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
