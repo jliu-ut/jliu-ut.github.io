@@ -8,10 +8,9 @@ redirect_from:
 ---
 
 ## Job Market Paper
-### 1. Website Cookies and Voluntary Disclosure
+### 1. Website Cookies and Voluntary Disclosure (R&R at _Journal of Accounting and Economics_)
 > Abstract: Using detailed website cookie information obtained from U.S. firms' websites in _real time_, I investigate the role of corporate self-collected consumer data in voluntary disclosure. Cookies infuse first-hand, granular, and real-time data into managers' information sets and have the potential to enrich internal information about customers and sales operations. I show that the number of cookies is positively related to the frequency and the likelihood of issuing management sales forecasts. Using FinBERT-based measures, I find that the usage of cookies is also associated with a larger percentage of qualitative disclosure regarding customers, marketing, and products in 10-K filings. I provide evidence that cookie-collected data are more useful if the collected data are of stronger relevance for disclosure and of larger volume. Additional analyses indicate that data analytic technology assists firms in better exploiting cookie-collected data, while data privacy protection regimes impair the usefulness of cookie-collected data. Using the California Consumer Privacy Act (CCPA) as a quasi-natural experiment, I provide additional evidence for the causal relation between cookies and voluntary disclosure. Overall, the paper sheds light on the value of corporate data assets in disclosure decisions and speaks to the effects of data analytic technology as well as the potential impacts of data privacy regulations.
 
-* Revise and resubmit at _Journal of Accounting and Economics_
 * Presented at the Rotman School of Management, the University of British Columbia, 2023 Emerging Scholars in Accounting Conference
 
 ## Publication
