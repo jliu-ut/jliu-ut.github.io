@@ -21,7 +21,7 @@ Research
 ======
 1. Website Cookies and Voluntary Disclosure (Solo-authored Job Market Paper, R&R at _Journal of Accounting and Economics_)
 2. Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program? _Review of Accounting Studies_ (2023) (with Ole-Kristian Hope)
-3. Earnings Announcements in China: Overnight-Intraday Disparity. _Journal of Corporate Finance_ (Forthcoming) (with Ole-Kristian Hope and Danqi Hu)
+3. Earnings Announcements in China: Overnight-Intraday Disparity. _Journal of Corporate Finance_ (2023) (with Ole-Kristian Hope and Danqi Hu)
 4. FOMC Meetings and Analysts’ Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
 5. The Value of Data Assets (_Work in Progress_)
 6. Using Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications (_Work in Progress_)
