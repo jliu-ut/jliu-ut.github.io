@@ -20,7 +20,7 @@ redirect_from:
 * Adapted from first-year summer paper at the Rotman School of Management
 * Media Mention: [FinReg Blog](https://sites.duke.edu/thefinregblog/2021/11/04/does-stock-liquidity-shape-voluntary-disclosure-evidence-from-the-sec-tick-size-pilot-program/) 
 
-### 3. [Earnings Announcements in China: Overnight and Intraday Disparity](https://www.sciencedirect.com/science/article/pii/S0929119923001207) (with Ole-Kristian Hope and Danqi Hu), _Journal of Corporate Finance_ (Forthcoming)
+### 3. [Earnings Announcements in China: Overnight and Intraday Disparity](https://www.sciencedirect.com/science/article/pii/S0929119923001207) (with Ole-Kristian Hope and Danqi Hu), _Journal of Corporate Finance_ (2023)
 * Presented at 2021 AAA Annual Meeting, 2021 CAAA Annual Meeting, 2021 TADC
 
   
