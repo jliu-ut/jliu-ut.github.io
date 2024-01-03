@@ -30,7 +30,10 @@ Research
 Conferences and Workshops
 ======
 * 2023
-  * Emerging Scholar in Accounting Conference
+  * The Fourth Emerging Scholars in Accounting Conference (presenter)
+  * University of British Columbia (presenter)
+  * Rotman Accounting Workshop (presenter)
+  * Rotman Accounting Research Conference
   * AAA Annual Meeting (presenter)
   * Wharton Spring Accounting Conference
   * TD Management Data and Analytics Lab Research Roundtable (presenter)
@@ -49,7 +52,6 @@ Conferences and Workshops
 * 2020
   * AES Summer School on Structural Estimation in Accounting
   * Rotman Accounting Workshop (presenter)
-* 2019
   * Rotman Accounting Research Conference
 
 
