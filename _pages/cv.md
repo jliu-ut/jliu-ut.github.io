@@ -24,7 +24,8 @@ Research
 3. Earnings Announcements in China: Overnight-Intraday Disparity. _Journal of Corporate Finance_ (2023) (with Ole-Kristian Hope and Danqi Hu)
 4. FOMC Meetings and Analysts’ Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
 5. The Value of Data Assets (_Work in Progress_)
-6. Using Cookies to Track Investors: Corporate Data Acquisition from Investors and Investor Communications (_Work in Progress_)
+6. Disclosing Data Assets: Evidence from a Pilot Regulation (with Xingchao Gao and Hai Lu) (_Work in Progress_)
+7. Using Cookies to Track Investors: Collecting Data from Investors and Investor Communication (with Xijiang Su) (_Work in Progress_)
    
 Conferences and Workshops
 ======
