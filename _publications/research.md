@@ -30,8 +30,10 @@ redirect_from:
 ## Work in Progress
 ### 5. The Value of Data Assets
 * Chapter 2 of the dissertation, data analysis completed
+
 ### 6. Disclosing Data Assets: Evidence from a Pilot Regulation (with Xingchao Gao and Hai Lu) 
 * Survey distribution and data collection in progress
+
 ### 7. Using Cookies to Track Investors: Collecting Data from Investors and Investor Communication
 (with Xijiang Su) 
 * Data analysis in progress
