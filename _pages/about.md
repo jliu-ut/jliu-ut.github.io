@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in accounting at the Rotman School of Management, University of Toronto. I am on the 2023 - 2024 academic job market.
+I am a Ph.D. Candidate in accounting at the Rotman School of Management, University of Toronto. I will join the University of Melbourne as a Senior Lecturer in Accounting soon.
 
 My current research focuses on accounting issues related to digital economy, and I am particularly interested in understanding the role of big data and data analytics in accounting, the valuation and reporting of data assets, as well as implications of data privacy and security issues for accounting. I was selected as a FASB Emerging Scholar Finalist for my dissertation work. 
 
