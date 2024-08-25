@@ -11,22 +11,17 @@ redirect_from:
 
 You can find the PDF version of my CV [here](https://github.com/jliu-ut/CV/blob/main/CV.pdf).
 
+Employement
+======
+Senior Lecturer, Faculty of Business and Economics, University of Melbourne, 2024 - 
+
 Education
 ======
-* Ph.D in Accounting, Rotman School of Management, University of Toronto, 2019 - 2024 (expected)
+* Ph.D in Accounting, Rotman School of Management, University of Toronto, 2019 - 2024 
 * M.A. in Accounting, Guanghua School of Management, Peking University, 2017 - 2019
 * B.A. in Accounting, Guanghua School of Management, Peking University, 2013 - 2017
 
-Research
-======
-1. Website Cookies and Voluntary Disclosure (Solo-authored Job Market Paper, R&R at _Journal of Accounting and Economics_)
-2. Does Stock Liquidity Shape Voluntary Disclosure? Evidence from the SEC Tick Size Pilot Program? _Review of Accounting Studies_ (2023) (with Ole-Kristian Hope)
-3. Earnings Announcements in China: Overnight-Intraday Disparity. _Journal of Corporate Finance_ (2023) (with Ole-Kristian Hope and Danqi Hu)
-4. FOMC Meetings and Analysts’ Target-Price Forecasts (with Ole-Kristian Hope and Mingyue Zhang)
-5. The Value of Data Assets (_Work in Progress_)
-6. Disclosing Data Assets: Evidence from a Pilot Regulation (with Xingchao Gao and Hai Lu) (_Work in Progress_)
-7. Using Cookies to Track Investors: Collecting Data from Investors and Investor Communication (with Xijiang Su) (_Work in Progress_)
-   
+
 Conferences and Workshops
 ======
 * 2023
