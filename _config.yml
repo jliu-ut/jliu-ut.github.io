@@ -12,7 +12,7 @@ locale                   : "en-US"
 title                    : "Junhao Liu"
 title_separator          : "-"
 name                     : &name "Junhao Liu"
-description              : &description "Ph.D. Candidate in Accounting at the Rotman School of Management, University of Toronto"
+description              : &description "Senior Lecturer at the University of Melbourne"
 url                      : https://liu-junhao.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liu-junhao.github.io"
@@ -84,12 +84,12 @@ analytics:
 author:
   name             : "Junhao Liu"
   avatar           : "profile.png"
-  bio              : "Ph.D. Candidate in Accounting at the Rotman School of Management, University of Toronto."
+  bio              : "Senior Lecturer at the University of Melbourne"
   location         : "Toronto, ON, Canada"
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "junhao.liu@rotman.utoronto.ca"
+  email            : "junhao.liu.2@unimelb.edu.au"
   researchgate     :
   uri              :
   bitbucket        :
